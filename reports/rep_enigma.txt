@@ -2,8 +2,8 @@ phase04         https://docs.google.com/document/d/14eYID6Y5dfAbQt5bdNillBH4GR3Y
 
 phase05         https://docs.google.com/document/d/1i_3yEv3ihU9PU8OPgOAR36TWniX4CUA-HegSD-nZipU/edit
 
-phase06
+phase06         https://docs.google.com/document/d/1KoFBPO8eEHObg2CbVlLJQPkVYHR-wdMAo6eEEJsEZCU/edit
 
 phase07
 
-all report
+all report      https://docs.google.com/document/d/1p2lMH6_uLW6yxUZsadQaf--Z4XbaW5tGO8bId_MaYUk/edit
